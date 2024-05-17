@@ -27,3 +27,4 @@ if __name__ == "__main__":
     print(FileStorage.save.__dict__)
     print(FileStorage.all.__dict__)
     print(FileStorage.__objects)
+print(FileStorage.__file_path)
