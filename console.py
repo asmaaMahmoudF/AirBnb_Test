@@ -3,7 +3,7 @@
     implementing the console class
 '''
 
-from models import *
+import models
 
 import cmd
 from models import storage
