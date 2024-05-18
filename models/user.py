@@ -12,3 +12,5 @@ class User(BaseModel):
     password = ''
     first_name = ''
     last_name = ''
+    
+# this is test for new branch
